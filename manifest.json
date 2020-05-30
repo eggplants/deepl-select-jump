@@ -1,0 +1,16 @@
+{
+    "name": "deepl-select-jump",
+    "version": "0.1",
+    "description": "選択したテキストの右クリックメニューにDeepL翻訳へ投げる機能を追加",
+    "manifest_version": 2,
+    "background" : {
+        "scripts" : ["background.js"]
+    },
+    "permissions" : [
+        "contextMenus",
+        "https://*/*"
+    ],
+    "icons" : {
+      "48" : "icons/icon48.png"
+    }
+}
