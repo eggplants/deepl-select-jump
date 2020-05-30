@@ -4,7 +4,20 @@
 
 ## Demo
 
-![demo](https://raw.githubusercontent.com/wiki/eggplants/deepl-select-jump/demo1.gif)
+![demo]
+
+## Install
+
+### ストアから
+
+[Chrome ウェブストア]でブラウザにインストール
+
+### リポジトリから
+
+1. `git clone https://github.com/eggplants/deepl-select-jump`
+2. Chromeの「拡張機能」の設定ページでデベロッパーモードを有効化
+3. 「パッケージ化されていない拡張機能を読み込む」でcloneしたリポジトリを指定
+4. インストール完了！
 
 ## Changelog
 
@@ -14,3 +27,6 @@
 - v0.2
   - アイコンに常に色付ける
   - エラー出てたとこ削った
+  
+[demo]: https://raw.githubusercontent.com/wiki/eggplants/deepl-select-jump/demo1.gif 
+[Chrome ウェブストア]: https://chrome.google.com/webstore/detail/deepl-select-jump/hmejdnnbejbmmpfnpojbmhecjfkkheme
