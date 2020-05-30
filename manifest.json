@@ -7,8 +7,7 @@
         "scripts" : ["background.js"]
     },
     "permissions" : [
-        "contextMenus",
-        "*://*"
+        "contextMenus"
     ],
     "icons" : {
       "48" : "icons/icon48.png"
