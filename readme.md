@@ -4,7 +4,7 @@
 
 ## Demo
 
-![demo](https://raw.githubusercontent.com/eggplants/deepl-select-jump/master/demo1.gif)
+![demo](https://raw.githubusercontent.com/wiki/eggplants/deepl-select-jump/demo1.gif)
 
 ## Changelog
 
