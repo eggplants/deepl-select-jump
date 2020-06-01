@@ -1,6 +1,7 @@
 # deepl-select-jumpって何？
 
 選択したテキストの右クリックメニューにDeepL翻訳へ雑に投げるやつを追加するchrome拡張.
+車輪の再発明でした…->[なぞり翻訳(英→和) for DeepL翻訳]
 
 ## Demo
 
@@ -30,3 +31,4 @@
   
 [demo]: https://raw.githubusercontent.com/wiki/eggplants/deepl-select-jump/demo1.gif 
 [Chrome ウェブストア]: https://chrome.google.com/webstore/detail/deepl-select-jump/hmejdnnbejbmmpfnpojbmhecjfkkheme
+[なぞり翻訳(英→和) for DeepL翻訳]: https://chrome.google.com/webstore/detail/%E3%81%AA%E3%81%9E%E3%82%8A%E7%BF%BB%E8%A8%B3%E8%8B%B1%E2%86%92%E5%92%8C-for-deepl%E7%BF%BB%E8%A8%B3/begokompmfdepmbdbemfahbeapcabeaa
